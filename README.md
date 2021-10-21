@@ -1,4 +1,4 @@
-# ANN_MNIST_DEMO
+## ANN_MNIST_DEMO
 * ANN using MNIST dataset
   * Creates ANN model using following layers:
   ```python
